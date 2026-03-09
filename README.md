@@ -85,7 +85,7 @@ Contact
 
 If you would like to connect or collaborate, feel free to reach out.
 
-LinkedIn: https://www.linkedin.com/in/yourusername
+LinkedIn: https://www.linkedin.com/in/dhena-d-3128851b1/
 
 GitHub: https://github.com/Dhena-21
 
